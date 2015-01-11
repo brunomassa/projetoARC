@@ -119,7 +119,7 @@
             // encomendasToolStripMenuItem
             // 
             this.encomendasToolStripMenuItem.Name = "encomendasToolStripMenuItem";
-            this.encomendasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.encomendasToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.encomendasToolStripMenuItem.Text = "encomendas";
             // 
             // verToolStripMenuItem
@@ -202,7 +202,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(159, 13);
             this.label4.TabIndex = 5;
-            this.label4.Text = "Gestão encomendas Versão 2.0";
+            this.label4.Text = "Gestão encomendas Versão 3.0";
             // 
             // textBox1
             // 
@@ -387,7 +387,7 @@
             // verToolStripMenuItem1
             // 
             this.verToolStripMenuItem1.Name = "verToolStripMenuItem1";
-            this.verToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
+            this.verToolStripMenuItem1.Size = new System.Drawing.Size(91, 22);
             this.verToolStripMenuItem1.Text = "Ver";
             this.verToolStripMenuItem1.Click += new System.EventHandler(this.verToolStripMenuItem1_Click);
             // 

@@ -50,7 +50,7 @@
             // timer1
             // 
             this.timer1.Enabled = true;
-            this.timer1.Interval = 48;
+            this.timer1.Interval = 30;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label2
@@ -76,10 +76,10 @@
             this.amazingProgressBar1.Location = new System.Drawing.Point(17, 137);
             this.amazingProgressBar1.MazeStyle = GAW.AmazingProgressBar.MazeStyleType.SingleRight;
             this.amazingProgressBar1.Name = "amazingProgressBar1";
-            this.amazingProgressBar1.RowCount = 10;
-            this.amazingProgressBar1.Size = new System.Drawing.Size(255, 23);
+            this.amazingProgressBar1.RowCount = 1;
+            this.amazingProgressBar1.Size = new System.Drawing.Size(234, 23);
             this.amazingProgressBar1.TabIndex = 3;
-            this.amazingProgressBar1.UnusedColor = System.Drawing.Color.OrangeRed;
+            this.amazingProgressBar1.UnusedColor = System.Drawing.Color.White;
             this.amazingProgressBar1.WallColor = System.Drawing.Color.White;
             this.amazingProgressBar1.WallSize = 0;
             // 
