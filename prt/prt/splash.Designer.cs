@@ -29,19 +29,11 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.progressBar1 = new System.Windows.Forms.ProgressBar();
             this.label1 = new System.Windows.Forms.Label();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.label2 = new System.Windows.Forms.Label();
+            this.amazingProgressBar1 = new GAW.AmazingProgressBar();
             this.SuspendLayout();
-            // 
-            // progressBar1
-            // 
-            this.progressBar1.ForeColor = System.Drawing.Color.OrangeRed;
-            this.progressBar1.Location = new System.Drawing.Point(17, 125);
-            this.progressBar1.Name = "progressBar1";
-            this.progressBar1.Size = new System.Drawing.Size(239, 27);
-            this.progressBar1.TabIndex = 0;
             // 
             // label1
             // 
@@ -58,7 +50,7 @@
             // timer1
             // 
             this.timer1.Enabled = true;
-            this.timer1.Interval = 31;
+            this.timer1.Interval = 48;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // label2
@@ -71,6 +63,26 @@
             this.label2.Size = new System.Drawing.Size(0, 13);
             this.label2.TabIndex = 2;
             // 
+            // amazingProgressBar1
+            // 
+            this.amazingProgressBar1.BorderColor = System.Drawing.Color.Transparent;
+            this.amazingProgressBar1.BorderGradient = false;
+            this.amazingProgressBar1.BorderRoundCorners = false;
+            this.amazingProgressBar1.BorderSize = 0;
+            this.amazingProgressBar1.ForeColor = System.Drawing.Color.OrangeRed;
+            this.amazingProgressBar1.Gradient = GAW.AmazingProgressBar.GradientType.Rows;
+            this.amazingProgressBar1.GradientEndColor = System.Drawing.Color.OrangeRed;
+            this.amazingProgressBar1.GradientStartColor = System.Drawing.Color.OrangeRed;
+            this.amazingProgressBar1.Location = new System.Drawing.Point(17, 137);
+            this.amazingProgressBar1.MazeStyle = GAW.AmazingProgressBar.MazeStyleType.SingleRight;
+            this.amazingProgressBar1.Name = "amazingProgressBar1";
+            this.amazingProgressBar1.RowCount = 10;
+            this.amazingProgressBar1.Size = new System.Drawing.Size(255, 23);
+            this.amazingProgressBar1.TabIndex = 3;
+            this.amazingProgressBar1.UnusedColor = System.Drawing.Color.OrangeRed;
+            this.amazingProgressBar1.WallColor = System.Drawing.Color.White;
+            this.amazingProgressBar1.WallSize = 0;
+            // 
             // splash
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -79,9 +91,9 @@
             this.BackgroundImage = global::prt.Properties.Resources.img_logo;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.amazingProgressBar1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.progressBar1);
             this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "splash";
@@ -96,9 +108,9 @@
 
         #endregion
 
-        private System.Windows.Forms.ProgressBar progressBar1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Label label2;
+        private GAW.AmazingProgressBar amazingProgressBar1;
     }
 }

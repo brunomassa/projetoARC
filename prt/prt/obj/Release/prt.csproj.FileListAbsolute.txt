@@ -12,3 +12,18 @@ C:\Users\Bruno\documents\visual studio 2013\Projects\prt\prt\obj\Release\prt.exe
 C:\Users\Bruno\documents\visual studio 2013\Projects\prt\prt\obj\Release\prt.pdb
 C:\Users\Bruno\documents\visual studio 2013\Projects\prt\prt\obj\Release\prt.recuperacao.resources
 C:\Users\Bruno\documents\visual studio 2013\Projects\prt\prt\obj\Release\prt.Pass.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\bin\Release\prt.exe.config
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.exe
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.pdb
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\bin\Release\prt.exe
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\bin\Release\prt.pdb
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\bin\Release\AmazingProgressBar.dll
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.Form1.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.Pass.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.Properties.Resources.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.recuperacao.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.registo.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.splash.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.user.resources
+C:\Users\Bruno\Documents\GitHub\projetoARC\prt\prt\obj\Release\prt.csproj.GenerateResource.Cache

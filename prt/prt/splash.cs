@@ -20,13 +20,13 @@ namespace prt
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            label2.Text ="( "+ ((double)progressBar1.Value + "% "+")");
-            progressBar1.Increment(1);
-            if (progressBar1.Value == 60)
+            label2.Text ="( "+ ((double)amazingProgressBar1.Value + "% "+")");
+            amazingProgressBar1.Increment(1);
+            if (amazingProgressBar1.Value == 60)
             {
                 label1.Text = "A iniciar";
             }
-            if (progressBar1.Value == 101)
+            if (amazingProgressBar1.Value == 101)
             {
                 timer1.Stop();
             }
