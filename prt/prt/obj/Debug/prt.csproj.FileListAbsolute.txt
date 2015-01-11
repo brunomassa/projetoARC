@@ -1,0 +1,14 @@
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\bin\Debug\prt.exe.config
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\bin\Debug\prt.exe
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\bin\Debug\prt.pdb
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.Form1.resources
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.exe
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.pdb
+c:\users\bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.registo.resources
+C:\Users\Bruno\Documents\Visual Studio 2013\Projects\prt\prt\obj\Debug\prt.splash.resources
+C:\Users\Bruno\documents\visual studio 2013\Projects\prt\prt\obj\Debug\prt.user.resources
+C:\Users\Bruno\Documents\Visual Studio 2013\Projects\prt\prt\obj\Debug\prt.Pass.resources
+C:\Users\Bruno\Documents\Visual Studio 2013\Projects\prt\prt\obj\Debug\prt.recuperacao.resources
